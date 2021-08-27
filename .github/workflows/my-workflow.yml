@@ -1,5 +1,7 @@
 name: "Docker Actions"
 
+description: "Just playing around"
+
 on: [push]
 
 jobs:
